@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pasaporte de los Parques Nacionales</string>
+    <string name = "welcome">Bienvenido al Pasaporte de los Parques Nacionales!</string>
+    <string name ="login">¡Iniciar sesión!</string>
+    <string name = "username">Email</string>
+    <string name ="password">Contraseña</string>
+    <string name = "signUp">¿No tienes una cuenta? Regístrate</string>
+    <string name = "rememberUser">Remember Username</string>
+    <string name = "rememberPassword">Recordar el nombre de usuario</string>
+    <string name ="signUpText">Registrarse en el pasaporte de los parques nacionales</string>
+    <string name = "newSignUp">¡Regístrate!</string>
+    <string name ="passwordConfirm">Confirmar contraseña</string>
+    <string name ="searchState">Ver Parques Nacionales en este Estado.</string>
+    <string name ="stateHint">Estado</string>
+    <string name ="landingText">Ingrese un nombre de estado para ver información sobre los parques estatales en ese estado</string>
+    <string name = "learn">¡Aprenda sobre los parques!</string>
+    <string name ="notAState">¡No es un estado!</string>
+    <string name ="okay">Bueno</string>
+    <string name ="directions">Direcciones</string>
+    <string name ="parkName">Nombre del parque</string>
+    <string name ="parkDes">Descripción</string>
+    <string name ="weather">Clima</string>
+    <string name ="genDirect">Direcciones generales</string>
+    <string name ="temperature">Temperatura</string>
+    <string name ="humidity">Humedad</string>
+    <string name ="forecast">Pronóstico</string>
+    <string name ="visibility">Visibility</string>
+
+
+</resources>

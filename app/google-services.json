@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "644161587359",
+    "firebase_url": "https://nationalparkspassport-c0aa8.firebaseio.com",
+    "project_id": "nationalparkspassport-c0aa8",
+    "storage_bucket": "nationalparkspassport-c0aa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644161587359:android:9571f2d1daddfc4f",
+        "android_client_info": {
+          "package_name": "com.example.nationalparkpassport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5zHHoZx8ysYBAtK6WSn916wWv6JQIZU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644161587359-udqt6d7fna9k2a69ts5m3qtopu81smpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

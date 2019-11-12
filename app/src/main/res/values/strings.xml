@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">National Parks Passport</string>
+    <string name = "welcome">Welcome to the National Parks Passport!</string>
+    <string name ="login">Login!</string>
+    <string name = "username">Email</string>
+    <string name ="password">Password</string>
+    <string name = "signUp">Dont have an account? Sign Up</string>
+    <string name = "rememberUser">Remember Username</string>
+    <string name = "rememberPassword">Remember Password</string>
+    <string name ="signUpText">Sign up for National Parks Passport</string>
+    <string name = "newSignUp">Sign Up!</string>
+    <string name ="passwordConfirm">Confirm Password</string>
+    <string name ="searchState">See National Parks in this State</string>
+    <string name ="stateHint">State</string>
+    <string name ="landingText">Please enter a state name to see information on the state parks in that state</string>
+    <string name = "learn">Learn About Parks!</string>
+    <string name ="notAState">Not A State!</string>
+    <string name ="directions">Directions</string>
+    <string name ="okay">Okay</string>
+    <string name ="parkName">Park Name</string>
+    <string name ="parkDes">Description</string>
+    <string name ="weather">Weather</string>
+    <string name ="genDirect">General Directions</string>
+    <string name ="temperature">Temperature</string>
+    <string name ="humidity">Humidity</string>
+    <string name ="forecast">Forecast</string>
+    <string name ="visibility">Visibility</string>
+
+
+</resources>
