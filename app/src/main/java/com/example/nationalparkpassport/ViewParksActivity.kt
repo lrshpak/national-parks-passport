@@ -49,37 +49,6 @@ class ViewParksActivity : AppCompatActivity() {
         )
 
 
-
-
-
     }
 
-    /*private fun generateFakeParks(): List<Park> {
-        return listOf(
-            Park(
-                name = "Your mom's house",
-                address = "123 Your. Moms. House"
-            ),
-            Park(
-                name = "Bhagi's Neighborhood",
-                address = "At the request of Professor Narahari, the location of this park remains undisclosed"
-            ),
-            Park(
-                name = "Teddy's Brain",
-                address = "All Basketball All The Time"
-            ),
-            Park(
-                name = "Devin's Office",
-                address = "2nd floor research lab"
-            ),
-            Park(
-                name = "Woah......this kid Devin has two offices??",
-                address = "4th floor research lab"
-            ),
-            Park(
-                name = "woah, hold up girl",
-                address = "dont you know ur beautiful"
-            )
-        )
-    }*/
 }
